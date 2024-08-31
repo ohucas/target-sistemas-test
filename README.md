@@ -10,7 +10,8 @@ while (K < INDICE) {
     K = K + 1;
     SOMA = SOMA + K;
 }
-printf("%d", SOMA);.
+printf("%d", SOMA);
+```
 
 # Resultado
 Ao final do processamento, o valor da variável SOMA será 91
